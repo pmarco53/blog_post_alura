@@ -1,0 +1,13 @@
+.posts {
+  padding: 0 6vw 3.625rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: -2.5rem;
+}
+
+.titulo {
+  margin-bottom: 60px;
+  margin-left: 150px;
+}
